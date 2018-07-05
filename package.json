@@ -1,5 +1,5 @@
 {
-  "name": "node-pty",
+  "name": "pty.js",
   "description": "Fork pseudoterminals in Node.JS",
   "author": {
     "name": "Daniel Imms"
